@@ -9,4 +9,5 @@ Colaboradores
 
 #### Pantallazo primeros commits de mafe
 
-(https://github.com/fehiora/clase25dejunio/blob/mafe/img/primeros%20commits.png)
+![alt text](https://github.com/fehiora/clase25dejunio/blob/mafe/img/primeros%20commits.png"Logo Title Text 1")
+
