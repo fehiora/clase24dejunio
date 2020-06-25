@@ -4,3 +4,6 @@ Colaboradores
 
 * Nelson Alvarez Roa
 * Maria Hidalgo
+
+Pantallazos primeros commits Nelson 
+
