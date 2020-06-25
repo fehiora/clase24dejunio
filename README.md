@@ -6,9 +6,18 @@ Colaboradores
 
 *Maria Hidalgo
 
+### Desarrollo del taller rama mafe
 
-#### Pantallazo primeros commits de mafe
+1. Pantallazo commits inicial
+![alt text](https://github.com/fehiora/clase25dejunio/blob/mafe/img/Primeros%20commits.png "Pantallazo 1")
 
-![alt text](https://github.com/fehiora/clase25dejunio/blob/mafe/img/primeros%20commits.png "primer pantallazo")
+
+2. Pantallazo revert
+![alt text](https://github.com/fehiora/clase25dejunio/blob/mafe/img/Revert.png "Pantallazo 2")
 
 
+3. Pantallazo reset soft
+![alt text](https://github.com/fehiora/clase25dejunio/blob/mafe/img/Resetsoft.png "Pantallazo 3")
+
+4. Pantallazo reset hard
+![alt text](https://github.com/fehiora/clase25dejunio/blob/mafe/img/Resethard.png "Pantallazo 4")
