@@ -7,4 +7,6 @@ Colaboradores
 
 # Primeros pantallazos commits Nelson
 
-[Screenshot](https://github.com/fehiora/clase25dejunio/blob/Nel4/imgnelson/sscommits.PNG)
+![Screenshot](https://github.com/fehiora/clase25dejunio/blob/Nel4/imgnelson/sscommits.PNG)
+
+
