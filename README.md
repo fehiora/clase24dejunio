@@ -1,5 +1,6 @@
-# CLASE 24 DE JUNIO
+# CLASE 25 DE JUNIO
 
-Hoy estamos repasando los comandos de GIT y creación de ramas
+Colaboradores
 
-Una página de ayuda es la siguiente: (https://www.hostinger.co/tutoriales/comandos-de-git)
+Nelson Alvarez
+Maria Hidalgo
