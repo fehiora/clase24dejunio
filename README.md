@@ -2,5 +2,5 @@
 
 Colaboradores
 
-Nelson Alvarez Roa
-Maria Hidalgo
+* Nelson Alvarez Roa
+* Maria Hidalgo
